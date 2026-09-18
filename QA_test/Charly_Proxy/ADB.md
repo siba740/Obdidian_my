@@ -1,0 +1,1 @@
+adb shell "dumpsys window windows | grep -E mFocusedApp"  - выводит название открытого на экране приложения

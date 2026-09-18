@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "0bf1d130b7cb0682",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc3286c3dfc5f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60df8f270001faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Быстрые ответы/КБА.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "КБА"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "347b273727c2c66b",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e12b429241a904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58be4e42133f617e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "2a184637cfc53179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5c35f68ff910bdab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Литература JS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Литература JS"
+            }
+          },
+          {
+            "id": "284c67cd88e61fc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d2d4bcd43454bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "50228718ba6bc468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "614ef96ed49d42f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Быстрые ответы/СКАНЕР КБА.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для СКАНЕР КБА"
+            }
+          },
+          {
+            "id": "6a8a3ba3504d5b36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Быстрые ответы/СКАНЕР КБА.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из СКАНЕР КБА"
+            }
+          },
+          {
+            "id": "72d2d4e50ccdb229",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e28203c3e8fb03aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "7e56a9f2eee35aaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Быстрые ответы/СКАНЕР КБА.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура СКАНЕР КБА"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "a60df8f270001faf",
+  "lastOpenFiles": [
+    "Быстрые ответы/СКАНЕР КБА.md",
+    "Быстрые ответы/Когнита.md",
+    "Быстрые ответы/Монита.md",
+    "Быстрые ответы/Битрикс.md",
+    "Быстрые ответы/КБА.md",
+    "QA_test/Docker/Создание VPN прокси на Windows VLESS+reality.md",
+    "JS/Литература JS.md",
+    "Быстрые ответы/КАНДИДАТ.md",
+    "JS/Отладчик.md",
+    "JS/Преобразование типов.md",
+    "Без названия",
+    "JS/Взаимодействие alert, prompt, confirm.md",
+    "JS/Базовые операторы, математика.md",
+    "QA_test/Методы разработки ПО/Инкрементная модель.md",
+    "QA_test/Методы разработки ПО/Модель Waterfall (или каскадная модель).md",
+    "QA_test/Методы разработки ПО/Без названия",
+    "QA_test/Жизненный цикл ПО.md",
+    "QA_test/Charly_Proxy/ADB.md",
+    "QA_test/Методы разработки ПО",
+    "QA_test/Docker/Установка Docker.md",
+    "QA_test/Docker/Docker Linux AmneziaWG.md",
+    "Быстрые ответы/Общие ответы.md",
+    "JS"
+  ]
+}
